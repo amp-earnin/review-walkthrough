@@ -1,0 +1,15 @@
+{
+  "name": "review-walkthrough",
+  "owner": {
+    "name": "amp-earnin"
+  },
+  "description": "Code review walkthrough skill for Claude Code and Cursor.",
+  "plugins": [
+    {
+      "name": "review-walkthrough",
+      "source": "./",
+      "description": "Walk a reviewer through a diff one subset at a time. Modes: fix-as-we-go, --notes-only, --stacked.",
+      "version": "1.1.0"
+    }
+  ]
+}

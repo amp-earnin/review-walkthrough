@@ -1,0 +1,9 @@
+{
+  "name": "review-walkthrough",
+  "version": "1.1.0",
+  "description": "Walk a reviewer through a diff one subset at a time. Modes: fix-as-we-go, --notes-only, --stacked.",
+  "author": { "name": "amp-earnin" },
+  "repository": "https://github.com/amp-earnin/review-walkthrough",
+  "license": "MIT",
+  "keywords": ["code-review", "pull-request", "walkthrough"]
+}
